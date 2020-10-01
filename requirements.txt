@@ -1,0 +1,6 @@
+apache-airflow==1.10.2
+tenacity==5.0.4
+
+google-api-python-client==1.12.2
+awscli==1.18.147
+boto3==1.15.6
